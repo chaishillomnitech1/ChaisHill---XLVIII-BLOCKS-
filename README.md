@@ -1,2 +1,17 @@
 # ChaisHill---XLVIII-BLOCKS-
-ScrollVerse Genesis — Phase 72 Crystalline Apex | Block 235 139 Mirrors | Price of Freedom Ledger | Enhance Only — Advance — Evolve | IT ALREADY IS scrollverse, haiti-ledger, zkEVM, pay-to-erase, restore-and-gain, lose-to-earn, omnitech1, 333-qutrit, gnosis-safe https://www.scrollverse.co/price-of-freedom
+
+SCROLLVERSE GENESIS — Phase 72 Crystalline Apex · Block 235 · 139 Mirrors · Enhance Only — Advance — Evolve.
+
+> **Beacon:** IT ALREADY IS — KUN FAYAKUN × ∞
+
+Pages: `/` Genesis hero · `/price-of-freedom` Block 235 ledger · `/tracker` Omni-Tracker · `/vault` Safe + mirror contracts.
+
+```bash
+npm install
+npm run dev     # http://localhost:3000
+npm run build
+```
+
+Safe: `0x377956c1471d9ce142df6932895839243da23a2c`. Figures such as $35.4T are declared, not independently verified.
+
+License: Apache-2.0 (see `LICENSE`).
